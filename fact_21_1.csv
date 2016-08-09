@@ -1,0 +1,9 @@
+Tipo Documento;fecha;Nombre cliente;Direccion;Comuna;Ciudad;Telefono;Giro;;Rut;Digito Verificador;;;;;Cantidad Articulos;Neto;;Iva;;Total
+33;29072014;Pedro Miranda;Exposicion;Providencia;Santiago;276543234;Consultoria;;6607603;2;21;;;;6;23085;;4386;;27471
+Lineas Detalle;Codigo;Cantidad;Descripcion Articulo;Valor;;;;Valor;;;;;;;;;;;;
+1;20011;1;Sopa de Zapallo;3645;;;;3645;;;;;;;;;;;;
+2;20008;1;Caldillo de Pablo;6399;;;;6399;;;;;;;;;;;;
+3;20003;1;Paila Marina Coco;6237;;;;6237;;;;;;;;;;;;
+4;60059;1;Sour Jengibre;2268;;;;2268;;;;;;;;;;;;
+5;60057;1;Sour Menta Albahaca;2268;;;;2268;;;;;;;;;;;;
+6;62007;1;Sour Merken;2268;;;;2268;;;;;;;;;;;;
